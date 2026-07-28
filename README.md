@@ -21,9 +21,10 @@ This repository contains my practice labs and writeups from PortSwigger Web Secu
 
 ## 🚀 Progress
 
-| Vulnerability | Status |
-|-------------- |--------|
-| XSS           | In Progress |
+| Vulnerability   | Status |
+|-----------------|--------|
+| XSS             | In Progress |
+| Access Control  | In progress |
 
 ---
 
